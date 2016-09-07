@@ -1,4 +1,16 @@
-* {
-  background-color: white;
+.container {
+	text-align: left;
 }
 
+.philosophy {
+	text-align: center;
+	padding: 25px;
+	margin: 25px;
+}
+
+body {
+	background-color: #ffff99 ;
+	color: ;
+	font-family: ;
+	border-image: ;
+}
