@@ -9,8 +9,33 @@
 }
 
 body {
-	background-color: #ffff99 ;
-	color: ;
-	font-family: ;
-	border-image: ;
+	background-color: #ffff4c ;
+	color: black;
+	font-family: 'Slabo 27px';
+}
+
+.carousel-inner {
+	max-width: 100%;
+	max-height: 100px;
+}
+
+.welcometext {
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+.row {
+	padding: 10px;
+	margin: 30px;
+	text-align: center;
+}
+
+img {
+	border-radius: 50%;
+	width: 400px;
+	height: 400px;
 }
